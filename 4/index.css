@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+h1 {
+    font-size: 4.5rem;
+    margin: 2rem 0 0 45rem;
+}
+#worker {
+    position: absolute;
+    top: 9rem;
+    left: 20rem;
+    font-size: 4rem;
+    text-align: center;
+}
+#valhour {
+    position: absolute;
+    top: 19rem;
+    left: 20rem;
+    font-size: 2rem;
+}
+#hours {
+    position: absolute;
+    top: 19rem;
+    left: 50rem;
+    font-size: 2rem;
+}
+#valhourx {
+    position: absolute;
+    top: 29rem;
+    left: 20rem;
+    font-size: 2rem;
+}
+#hourx {
+    position: absolute;
+    top: 29rem;
+    left: 50rem;
+    font-size: 2rem;
+}
+#boton {
+    position: absolute;
+    top: 35rem;
+    left: 45rem;
+    font-size: 3rem;
+}
+#texto {
+    border: 0.1rem solid red;
+    width: 50rem;
+    position: absolute;
+    right: 5rem;
+    height: 40rem;
+    font-size: 3rem;
+}
